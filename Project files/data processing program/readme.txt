@@ -1,0 +1,2 @@
+The program reads the original file in folder '/Annotations', parses the data and transforms it into the format we encode. The output path is '/sequences'.
+Each output session in the JSON file starts with UseStart as a dummy state and ends with UseStop as a dummy state.

@@ -1,0 +1,8 @@
+filter(avg, P=? [ X "positive" ], "positive")
+
+filter(avg, P=? [ X "positive" ], "negative")
+
+filter(avg, P=? [ X "negative" ], "negative")
+
+filter(avg, P=? [ X "negative" ], "positive")
+

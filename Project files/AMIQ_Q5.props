@@ -1,0 +1,5 @@
+const int j;
+const int N;
+
+filter(state, P=? [ F<=N "decision" ], y=j&"nodecision")
+

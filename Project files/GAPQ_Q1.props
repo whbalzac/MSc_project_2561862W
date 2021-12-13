@@ -1,0 +1,12 @@
+S=?["short" & "decision"]
+
+S=?["short" & "nodecision"]
+
+S=?["medium" & "decision"]
+
+S=?["medium" & "nodecision"]
+
+S=?["long" & "decision"]
+
+S=?["long" & "nodecision"]
+

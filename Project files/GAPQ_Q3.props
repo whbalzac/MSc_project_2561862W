@@ -1,0 +1,8 @@
+S=?["private" & "decision"]
+
+S=?["private" & "nodecision"]
+
+S=?["public" & "decision"]
+
+S=?["public" & "nodecision"]
+

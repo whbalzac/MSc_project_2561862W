@@ -1,0 +1,4 @@
+const int j;
+
+filter(state, P=? [ X "positive" ], y=j&"nosentiment")
+

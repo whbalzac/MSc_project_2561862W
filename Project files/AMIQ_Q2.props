@@ -1,0 +1,10 @@
+const int N;
+
+R{"r_PM_decision"}=? [ C<=N ]
+
+R{"r_ME_decision"}=? [ C<=N ]
+
+R{"r_UI_decision"}=? [ C<=N ]
+
+R{"r_ID_decision"}=? [ C<=N ]
+

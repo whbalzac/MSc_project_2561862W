@@ -1,0 +1,8 @@
+const int N;
+
+filter(avg, R{"r_ME"}=? [ C<=N ], "PM")
+
+filter(avg, R{"r_UI"}=? [ C<=N ], "PM")
+
+filter(avg, R{"r_ID"}=? [ C<=N ], "PM")
+

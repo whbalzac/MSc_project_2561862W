@@ -1,0 +1,16 @@
+S=?["positive" & "decision"]
+
+S=?["positive" & "nodecision"]
+
+S=?["negative" & "decision"]
+
+S=?["negative" & "nodecision"]
+
+S=?["nosent" & "decision"]
+
+S=?["nosent" & "nodecision"]
+
+S=?["posneg" & "decision"]
+
+S=?["posneg" & "nodecision"]
+
